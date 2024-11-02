@@ -25,6 +25,8 @@ The website should then redirect you to another page that should look something 
 
 ![](assets/github-unity-example-repo.png)
 
+
+## Upload Your Files
 Next, click on the `Add File` dropdown and click on `Upload Files`.
 
 ![](assets/github-upload-files-to-repo.png)
